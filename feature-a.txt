@@ -1,18 +1,2 @@
-
-# 1. Initialize a repo (only if not already cloned from GitHub)
-git init
-
-# 2. Create a simple file
-echo "Hello, GitHub! This is my first file." > hello.txt
-
-# 3. Add the file to staging area
-git add hello.txt
-
-# 4. Commit the file
-git commit -m "Add hello.txt file"
-
-# 5. Link your local repo to GitHub (replace with your repo URL)
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-
-# 6. Push the commit to GitHub main branch
-git push -u origin main
+This is Collaborator A's new feature code.
+It is complete and ready for review!
